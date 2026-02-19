@@ -4,7 +4,7 @@ description: Build 3-5 jokes on a single theme with setup-punchline precision, d
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4792
+  version: 1.0.4793
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
