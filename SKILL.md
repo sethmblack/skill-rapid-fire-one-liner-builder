@@ -3,8 +3,9 @@ name: rapid-fire-one-liner-builder
 description: Build 3-5 jokes on a single theme with setup-punchline precision, delivered without pause to create comedic momentum and prevent second-guessing.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4792
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
